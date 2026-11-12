@@ -12,6 +12,19 @@ All course materials are developed based on the CISSP (Certified Information Sys
 
 所有教材內容皆以 CISSP（Certified Information Systems Security Professional，國際資訊系統安全認證）之共同知識體系（CBK, Common Body of Knowledge）為基礎建構，提供具系統性且符合業界最佳實務的安全治理、風險管理與安全工程知識框架。  
 
+## Domains｜主題
+
+[Security and Risk Management](./Domain01/README.md)  
+
+## References｜參考資訊  
+
+* [ISC2 CISSP Official Textbook](https://isc2.vitalsource.com)  
+* [ISC2 CISSP Study Tools and Resources](https://www.isc2.org/certifications/cissp/cissp-self-study-resources)  
+* [ISC2 CISSP Official Study Guide 10ed, 2024](https://www.wiley.com/en-fr/shop/general-introductory-computer-science/isc2-cissp-certified-information-systems-security-professional-official-study-guide-10th-edition-p-9781394254705)  
+* [CISSP Official Practice Tests 4ed, 2024](https://www.wiley.com/en-us/shop/general-introductory-computer-science/isc2-cissp-certified-information-systems-security-professional-official-practice-tests-4th-edition-p-9781394255085)  
+* [CISSP-Study-Resources](https://github.com/jefferywmoore/CISSP-Study-Resources)  
+* [Wiley Test Bank](https://study.learning.wiley.com/)  
+
 ---
 
 # License｜授權條款
