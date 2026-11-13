@@ -14,7 +14,7 @@ All course materials are developed based on the CISSP (Certified Information Sys
 
 ## Domains｜主題
 
-[Security and Risk Management](./Domain01/README.md)  
+[Security and Risk Management｜安全與風險管理](./Domain01/README.md)  
 
 ## References｜參考資訊  
 
