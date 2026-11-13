@@ -1,6 +1,6 @@
-# AUSPICIOUS SECURITY LAB   
+# AUSPICIOUSNESS SECURITY LAB   
 
-[![Auspicious Security Lab](img/cover01.png)](README.md)  
+[![Auspiciousness Security Lab](img/cover01.png)](README.md)  
 
 ## Overview | 概要  
 
