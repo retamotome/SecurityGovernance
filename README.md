@@ -8,7 +8,7 @@ This lab provides comprehensive coverage of cybersecurity, system security, info
 
 All course materials are developed based on the CISSP (Certified Information Systems Security Professional) Common Body of Knowledge (CBK), providing a structured and industry-recognized foundation for security governance, risk management, and security engineering.  
 
-本實驗室涵蓋網路安全（Cybersecurity）、系統安全（System Security）、資訊安全（Information Security）、功能安全（Functional Safety）及其治理架構（Governance Frameworks）等領域，並介紹風險分析方法、風險評估技術與安全管理策略，協助學員理解並有效因應現代系統與組織所面臨的安全與風險挑戰。  
+本實驗室涵蓋網路安全（Cybersecurity）、系統安全（System Security）、資訊安全（Information Security）、功能安全（Functional Safety）及其治理架構（Governance Frameworks）等領域，並介紹風險分析方法、風險評估技術與安全管理策略，協助學員瞭解並有效因應現代系統與組織所面臨的安全與風險挑戰。  
 
 所有教材內容皆以 CISSP（Certified Information Systems Security Professional，國際資訊系統安全認證）之共同知識體系（CBK, Common Body of Knowledge）為基礎建構，提供具系統性且符合業界最佳實務的安全治理、風險管理與安全工程知識框架。  
 
