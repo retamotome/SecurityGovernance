@@ -2,6 +2,9 @@
 
 [![Auspiciousness Security Lab](../img/cover01.png)](README.md)  
 
+> [!TIP]  
+> Please refer to the [Reference](#reference--參考資訊) section below for the technical acronyms used in this document.  
+> 本文所使用之技術縮寫，請參閱下方 [參考資訊](#reference--參考資訊)。  
 
 ## The CIA Triad｜CIA 三元素  
 
@@ -128,9 +131,9 @@ e.g., e-mail, S/MIME -> Authenticity, Integrity, Non-repudiation of sender.
 
 ---
 
-# Reference  
+# Reference | 參考資訊  
 
-| 縮寫 | 英文全文 (Full Name) | 說明與參考資訊 |
+| Abbreviation<br>縮寫 | Full Name<br>英文全文 | Explanation and References<br>說明與參考資訊 |
 | --- | --- | --- |
 | **NDA** | Nondisclosure Agreement | **保密協議**。屬於法律層面（Legal aspects），用於保護專有資訊（Proprietary Information）不外洩。 |
 | **DoS** | Denial of Service | **阻斷服務攻擊**。屬於 Availability（可用性）的常見威脅，意指攻擊者透過癱瘓系統使合法使用者無法存取服務。 |
